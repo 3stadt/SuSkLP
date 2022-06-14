@@ -12,11 +12,17 @@ Color and transparency are configurable in the config file which is generated af
 
 Example:
 
-![A comparison between the original and the new behaviour](https://github.com/3stadt/SuSkLP/blob/main/media/comparison.jpg?raw=true)
+![A comparison between the original and the new behaviour](https://github.com/3stadt/SuSkLP/blob/main/media/comparison.png?raw=true)
 
 # How to install/use
 
-In short:
+## Download
+
+The current version is on the [release page](github.com/3stadt/SuSkLP/releases/).
+
+You need to install [BepInEx](https://docs.bepinex.dev/master/) version 6 or higher, then add the DLL file as a plugin.
+
+## Compile it yourself
 
 Install BepInEx to Sunless Skies, compile the plugin as described in the [BepInEx documentation](https://docs.bepinex.dev/master/articles/dev_guide/plugin_tutorial/2_plugin_start.html?tabs=tabid-unityil2cpp#compiling-and-testing-the-plugin).
 
